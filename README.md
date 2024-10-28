@@ -3,7 +3,7 @@
 As you know the evil candy is very enjoyable but his chances are only 0.1 so one in a thousand we can't even see him and halloween will be over, let's change his luck.
 ## Evil Pump
 
-- **Customizable Chances:**Adjusting the luck of all candies: You can change the chances of all halloween candies coming out.
+- **Customizable Chances:** Adjusting the luck of all candies: You can change the chances of all halloween candies coming out.
 
 ## Installation
 
